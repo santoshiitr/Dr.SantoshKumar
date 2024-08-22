@@ -110,6 +110,28 @@ main{
     margin-top: 10px;
     line-height: 30px;
 }
+.cssbuttons-io-button {
+  display: flex;
+  align-items: center;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 17px;
+  padding: 0.8em 1.5em 0.8em 1.2em;
+  color: white;
+  background: #000;
+  border: none;
+  letter-spacing: 0.05em;
+  border-radius: 20em;
+  margin-top: 10px;
+}
+.cssbuttons-io-button svg {
+    margin-right: 6px;
+  }
+.cssbuttons-io-button a{
+    color: white;
+    text-decoration: none;
+
+}
 
 .img {
     width: 250px;
